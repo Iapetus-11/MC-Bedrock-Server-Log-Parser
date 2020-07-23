@@ -1,6 +1,6 @@
 # Configuration options
 # file name of the log file
-f_name = "log.txt"
+file_name = "log.txt"
 # time at which to start logging which players were online
 start_log_time = "2020-07-21 21:31:08"
 # time at which to stop logging which players were online
@@ -9,7 +9,7 @@ stop_log_time = "2020-07-22 08:32:06"
 from colorama import *
 init()
 
-with open(f_name, "r") as f:
+with open(file_name, "r") as f:
     lines = f.readlines()
 
 players_online = []
