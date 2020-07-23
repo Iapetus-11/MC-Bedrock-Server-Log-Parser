@@ -1,4 +1,4 @@
-# MC-Bedrock-Edition-Server-Log-Parser
+# MC-Bedrock-Server-Log-Parser
 ## A log parser for vanilla Minecraft Bedrock Edition servers
 * Lists all joins and leaves
 * Gets all users online in the given timeframe
@@ -7,7 +7,7 @@
 ## Setup / Usage:
 First, clone the repository:
 ```
-git clone https://github.com/Iapetus-11/MC-Bedrock-Editon-Server-Log-Parser.git
+git clone https://github.com/Iapetus-11/MC-Bedrock-Server-Log-Parser.git
 cd MC-Bedrock-Editon-Server-Log-Parser
 ```
 
