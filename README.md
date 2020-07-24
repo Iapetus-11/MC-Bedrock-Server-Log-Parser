@@ -5,7 +5,7 @@
 * Useful for figuring out who was on, and when they were
 
 ## Setup / Usage:
-First, clone the repository:
+First, clone the repository and cd into it:
 ```
 git clone https://github.com/Iapetus-11/MC-Bedrock-Server-Log-Parser.git
 cd MC-Bedrock-Editon-Server-Log-Parser
